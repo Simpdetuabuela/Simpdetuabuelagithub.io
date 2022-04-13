@@ -1,0 +1,31 @@
+body {
+    font-size: 15pt;
+}
+
+h1 {
+  color: white;
+  font-size: 30pt;
+  
+}
+
+h5{
+  color: white;
+  font-size: 30pt;
+  
+}
+
+h4{
+  color: white; 
+  font-size: 30pt;
+  
+}
+
+.exampleone {
+  background-color: teal;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-size: 30px;
+}
